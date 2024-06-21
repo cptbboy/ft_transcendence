@@ -16,7 +16,7 @@
 
 - **Frontend:** Vue 3, Tailwind CSS
 - **Backend:** NestJS
-- **Game Development:** Phaser 3
+- **Game Development:** Phaser 3, socket.io
 - **Database:** PostgreSQL, Prisma
 - **Containerization:** Docker
 
